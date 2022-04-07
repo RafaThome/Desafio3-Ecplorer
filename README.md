@@ -1,2 +1,2 @@
-# Desafio3-Ecplorer
+# Desafio3-EXplorer
 Desafio 03 - Expolorer - Rocketseat
